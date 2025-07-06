@@ -30,7 +30,7 @@ A RESTful API built with Laravel that allows users to upload, view, and download
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Rafeef2Rizq/File_upload_API.git
 cd your-repo-name
 composer install
 cp .env.example .env
